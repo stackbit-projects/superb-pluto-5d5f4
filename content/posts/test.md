@@ -13,9 +13,8 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## What are you testing?
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am testing the new blogging feature!
 
-- Lorem ipsum
-- dolor sit amet
+*   Design
