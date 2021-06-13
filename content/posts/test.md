@@ -1,6 +1,6 @@
 ---
 title: This is a test post!
-subtitle: lorem-ipsum
+subtitle: This is a test post published by MrBeanGuy!
 date: '2021-06-13'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
